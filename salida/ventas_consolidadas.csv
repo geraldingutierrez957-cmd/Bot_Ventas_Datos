@@ -1,0 +1,64 @@
+﻿fecha,producto,categoria,cantidad,precio_unitario,vendedor,metodo_pago,sucursal,total_venta
+2026-01-06,Parlante portatil,Electronica,2,127500.0,Sofia Mena,Transferencia,Bogotá,255000.0
+2026-01-07,Medias deportivas,Ropa,3,24400.0,Sofia Mena,Efectivo,Cali,73200.0
+2026-01-07,Jean clasico,Ropa,7,46400.0,Camila Ruiz,No especificado,Bogotá,324800.0
+2026-02-06,Camiseta basica,Ropa,5,55400.0,Andres Gomez,Efectivo,Medellín,277000.0
+2026-02-07,Teclado mecanico,Electronica,8,50300.0,Felipe Torres,Efectivo,Cali,402400.0
+2026-03-06,Camiseta basica,Ropa,6,26700.0,Andres Gomez,Transferencia,Bogotá,160200.0
+2026-03-07,Cargador USB-C,Electronica,3,98800.0,Camila Ruiz,Transferencia,Bogotá,296400.0
+2026-03-07,Jean clasico,Ropa,1,107600.0,Sofia Mena,No especificado,Medellín,107600.0
+2026-04-06,Jean clasico,Ropa,4,159900.0,Camila Ruiz,Efectivo,Bogotá,639600.0
+2026-04-06,Chaqueta impermeable,Ropa,4,150600.0,Laura Diaz,No especificado,Medellín,602400.0
+2026-04-06,Camiseta basica,Ropa,2,40200.0,Andres Gomez,No especificado,Medellín,80400.0
+2026-04-07,Cargador USB-C,Electronica,7,174100.0,Sofia Mena,Tarjeta,Bogotá,1218700.0
+2026-05-06,Mouse inalambrico,Electronica,2,126400.0,Andres Gomez,No especificado,Cali,252800.0
+2026-05-06,Medias deportivas,Ropa,7,78000.0,Felipe Torres,Transferencia,Bogotá,546000.0
+2026-05-06,Cargador USB-C,Electronica,4,165700.0,Sofia Mena,Transferencia,Medellín,662800.0
+2026-05-06,Gorra deportiva,Ropa,3,36200.0,Felipe Torres,Tarjeta,Bogotá,108600.0
+2026-06-06,Parlante portatil,Electronica,7,20200.0,Camila Ruiz,Tarjeta,Medellín,141400.0
+2026-07-07,Camiseta basica,Ropa,4,110500.0,Camila Ruiz,Efectivo,Cali,442000.0
+2026-08-06,Chaqueta impermeable,Ropa,5,86700.0,Felipe Torres,Efectivo,Bogotá,433500.0
+2026-08-07,Audifonos Bluetooth,Electronica,1,138400.0,Camila Ruiz,Efectivo,Cali,138400.0
+2026-09-06,Cargador USB-C,Electronica,4,137900.0,Sofia Mena,Transferencia,Medellín,551600.0
+2026-09-07,Parlante portatil,Electronica,4,40200.0,Andres Gomez,Efectivo,Bogotá,160800.0
+2026-12-07,Jean clasico,Ropa,8,80300.0,Felipe Torres,Tarjeta,Medellín,642400.0
+2026-12-07,Audifonos Bluetooth,Electronica,1,174900.0,Andres Gomez,Tarjeta,Cali,174900.0
+,Jean clasico,Ropa,5,148600.0,Camila Ruiz,Tarjeta,Medellín,743000.0
+,Teclado mecanico,Electronica,5,40700.0,Laura Diaz,Efectivo,Medellín,203500.0
+,Camiseta basica,Ropa,2,74200.0,Laura Diaz,Transferencia,Medellín,148400.0
+,Audifonos Bluetooth,Electronica,2,175600.0,Felipe Torres,Efectivo,Medellín,351200.0
+,Parlante portatil,Electronica,6,110300.0,Camila Ruiz,Efectivo,Medellín,661800.0
+,Jean clasico,Ropa,2,156100.0,Camila Ruiz,No especificado,Medellín,312200.0
+,Cargador USB-C,Electronica,6,41800.0,Laura Diaz,Tarjeta,Medellín,250800.0
+,Cargador USB-C,Electronica,2,115500.0,Andres Gomez,Tarjeta,Medellín,231000.0
+,Mouse inalambrico,Electronica,7,59500.0,Sofia Mena,Tarjeta,Medellín,416500.0
+,Medias deportivas,Ropa,7,74700.0,Andres Gomez,No especificado,Medellín,522900.0
+,Chaqueta impermeable,Ropa,7,92100.0,Camila Ruiz,Efectivo,Cali,644700.0
+,Audifonos Bluetooth,Electronica,6,147100.0,Camila Ruiz,Tarjeta,Cali,882600.0
+,Jean clasico,Ropa,8,38100.0,Andres Gomez,Transferencia,Cali,304800.0
+,Gorra deportiva,Ropa,2,88100.0,Sofia Mena,Efectivo,Cali,176200.0
+,Mouse inalambrico,Electronica,1,177600.0,Laura Diaz,No especificado,Cali,177600.0
+,Cargador USB-C,Electronica,8,40500.0,Laura Diaz,Tarjeta,Cali,324000.0
+,Teclado mecanico,Electronica,6,169200.0,Andres Gomez,Transferencia,Cali,1015200.0
+,Jean clasico,Ropa,7,36600.0,Laura Diaz,No especificado,Cali,256200.0
+,Medias deportivas,Ropa,8,18200.0,Laura Diaz,Transferencia,Bogotá,145600.0
+,Cargador USB-C,Electronica,6,87300.0,Sofia Mena,No especificado,Bogotá,523800.0
+,Camiseta basica,Ropa,4,25600.0,Camila Ruiz,Tarjeta,Bogotá,102400.0
+,Medias deportivas,Ropa,1,26700.0,Camila Ruiz,Tarjeta,Bogotá,26700.0
+,Gorra deportiva,Ropa,3,134400.0,Sofia Mena,No especificado,Bogotá,403200.0
+,Chaqueta impermeable,Ropa,1,90600.0,Sofia Mena,Efectivo,Barranquilla,90600.0
+,Camiseta basica,Ropa,4,98500.0,Andres Gomez,Transferencia,Barranquilla,394000.0
+,Camiseta basica,Ropa,6,47800.0,Felipe Torres,Transferencia,Barranquilla,286800.0
+,Medias deportivas,Ropa,1,125200.0,Sofia Mena,Transferencia,Barranquilla,125200.0
+,Camiseta basica,Ropa,5,34000.0,No especificado,Tarjeta,Barranquilla,170000.0
+,Cargador USB-C,Electronica,4,133400.0,Andres Gomez,Transferencia,Barranquilla,533600.0
+,Parlante portatil,Electronica,5,164400.0,Camila Ruiz,Efectivo,Barranquilla,822000.0
+,Teclado mecanico,Electronica,1,58100.0,Andres Gomez,Transferencia,Barranquilla,58100.0
+,Mouse inalambrico,Electronica,7,107500.0,Camila Ruiz,Efectivo,Barranquilla,752500.0
+,Mouse inalambrico,Electronica,1,152700.0,No especificado,Tarjeta,Barranquilla,152700.0
+,Teclado mecanico,Electronica,1,65900.0,Camila Ruiz,Transferencia,Barranquilla,65900.0
+,Jean clasico,Ropa,4,76500.0,Laura Diaz,No especificado,Barranquilla,306000.0
+,Medias deportivas,Ropa,4,157700.0,Andres Gomez,No especificado,Barranquilla,630800.0
+,Audifonos Bluetooth,Electronica,6,144100.0,Felipe Torres,Tarjeta,Barranquilla,864600.0
+,Cargador USB-C,Electronica,2,78100.0,Camila Ruiz,No especificado,Barranquilla,156200.0
+,Jean clasico,Ropa,8,72700.0,Andres Gomez,Tarjeta,Barranquilla,581600.0

@@ -1,0 +1,19 @@
+fecha,producto,categoria,cantidad,precio_unitario,vendedor,metodo_pago
+2026-06-02,Camiseta basica,Ropa,5,55400.0,Andres Gomez,Efectivo
+2026-06-06,Parlante portatil,Electronica,7,20200.0,Camila Ruiz,Tarjeta
+2026-07-03,Jean clasico,Ropa,1,107600.0,Sofia Mena,
+2026-06-29,Jean clasico,Ropa,5,148600.0,Camila Ruiz,Tarjeta
+2026-06-22,Teclado mecanico,Electronica,5,40700.0,Laura Diaz,Efectivo
+2026-06-25,Camiseta basica,Ropa,2,74200.0,Laura Diaz,Transferencia
+2026-06-30,Audifonos Bluetooth,Electronica,2,175600.0,Felipe Torres,Efectivo
+2026-06-19,Parlante portatil,Electronica,6,110300.0,Camila Ruiz,Efectivo
+2026-06-19,Jean clasico,Ropa,2,156100.0,Camila Ruiz,
+2026-06-30,Cargador USB-C,Electronica,6,41800.0,Laura Diaz,Tarjeta
+2026-07-15,Cargador USB-C,Electronica,2,115500.0,Andres Gomez,Tarjeta
+2026-06-30,Mouse inalambrico,Electronica,7,59500.0,Sofia Mena,Tarjeta
+2026-06-04,Chaqueta impermeable,Ropa,4,150600.0,Laura Diaz,
+2026-06-05,Cargador USB-C,Electronica,4,165700.0,Sofia Mena,Transferencia
+2026-07-12,Jean clasico,Ropa,8,80300.0,Felipe Torres,Tarjeta
+2026-06-09,Cargador USB-C,Electronica,4,137900.0,Sofia Mena,Transferencia
+2026-06-28,Medias deportivas,Ropa,7,74700.0,Andres Gomez,
+2026-06-04,Camiseta basica,Ropa,2,40200.0,Andres Gomez,
